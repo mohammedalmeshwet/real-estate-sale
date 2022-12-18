@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "img": "https://www.fay3.com/previews/2019-11/OtksmFZ9U3.jpeg",
+    "address": "576 Sumner Place, Maplewood, South Dakota, 8241",
+    "price" : 30000000,
+    "numberTheShares": 3
+
+  },
+  {
+    "id": 2,
+    "img": "https://cinema2y.com/wp-content/uploads/2021/05/%D8%AA%D8%B5%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-7.jpg",
+    "address": "736 Hawthorne Street, Dale, South Carolina, 9596",
+    "price" : 25000000,
+    "numberTheShares": 1
+  },
+  {
+    "id": 3,
+    "img": "https://cinema2y.com/wp-content/uploads/2021/05/%D8%AA%D8%B5%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-8.jpg",
+    "address": "358 Havens Place, Coyote, Illinois, 1522",
+    "price" : 40000000,
+    "numberTheShares": 3
+  },
+  {
+    "id": 4,
+    "img": "https://www.fay3.com/previews/2019-11/OtksmFZ9U3.jpeg",
+    "address": "356 Balfour Place, Sehili, Palau, 2038",
+    "price" : 15000000,
+    "numberTheShares": 1
+
+  },
+  {
+    "id": 5,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1BBJQ6WTYnTrC8tjFWcBJyfTbliXmIdDIEg&usqp=CAU",
+    "address": "765 Albemarle Terrace, Riceville, West Virginia, 129",
+    "price" : 30000000,
+    "numberTheShares": 1
+
+  },
+  {
+    "id": 6,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8dkIa4bl8_HU0W1GRZUCcLGq3AEEsSMn49wIDt17buVVo8cbzU8BGYWijrwnZeuG7wcM&usqp=CAU",
+    "address": "370 Stryker Street, Foxworth, Michigan, 5807",
+    "price" : 20000000,
+    "numberTheShares": 1
+  },
+  {
+    "id": 7,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO_rCxbg_sWrziGfJOvnX6Sb0v-jrqrKJfHETymKUqd2vC9l2-nN0kGdyc2HQm-dMVho8&usqp=CAU",
+    "address": "248 Seeley Street, Tyhee, New York, 1109",
+    "price" : 30000000,
+    "numberTheShares": 2
+
+  },
+  {
+    "id": 8,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEvKfHkTQzlAv2ARUGDOvortTWavDsapEGZpM_o-k2InPsERMr-xi4_XHUEufdS5zqD64&usqp=CAU",
+    "address": "466 Turnbull Avenue, Falmouth, Indiana, 7763",
+    "price" : 30000000,
+    "numberTheShares": 3
+
+  },
+  {
+    "id": 9,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHYJIJVfG6FJeLuJxJWHBu1pF6qMXTStLF8dMIgAOj8TLOZIzrKtV_bPW6X3A_ZXX-OSY&usqp=CAU",
+    "address": "693 Cumberland Street, Marne, Kansas, 8151",
+    "price" : 30000000,
+    "numberTheShares": 2
+  },
+  {
+    "id": 10,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8dkIa4bl8_HU0W1GRZUCcLGq3AEEsSMn49wIDt17buVVo8cbzU8BGYWijrwnZeuG7wcM&usqp=CAU",
+    "address": "747 Burnett Street, Kiskimere, District Of Columbia, 2734",
+    "price" : 30000000,
+    "numberTheShares": 1
+  }
+]
